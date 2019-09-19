@@ -1,0 +1,20 @@
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Мои программы\Учёба\САиММод\Лабораторная 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Мои программы\Учёба\САиММод\Лабораторная 1 - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
